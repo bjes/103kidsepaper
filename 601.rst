@@ -1,3 +1,78 @@
 ========
 六年一班
 ========
+
+.. figure:: 601/再見天人菊---林筠真.JPG
+    :align: center
+
+    再見天人菊-林筠真
+
+.. figure:: 601/再見天人菊---謝承妤.JPG
+    :align: center
+
+    再見天人菊-謝承妤
+
+.. figure:: 601/再見天人菊---高胤宸.JPG
+    :align: center
+
+    再見天人菊-高胤宸
+
+.. figure:: 601/寫給童年的一封信---蔡銘元.JPG
+    :align: center
+
+    寫給童年的一封信-蔡銘元
+
+.. figure:: 601/寫給童年的一封信---賴禹蓁.JPG
+    :align: center
+
+    寫給童年的一封信-賴禹蓁
+
+.. figure:: 601/愛的真諦---林筠真.JPG
+    :align: center
+
+    愛的真諦-林筠真
+
+.. figure:: 601/愛的真諦---賴禹蓁.JPG
+    :align: center
+
+    愛的真諦-賴禹蓁
+
+.. figure:: 601/故事改編---周真臻.JPG
+    :align: center
+
+    故事改編-周真臻
+
+.. figure:: 601/故事改編---蔡銘元.JPG
+    :align: center
+
+    故事改編-蔡銘元
+
+.. figure:: 601/記憶傳授人---劉尚頣.JPG
+    :align: center
+
+    記憶傳授人-劉尚頣
+
+.. figure:: 601/記憶傳授人---謝承妤.JPG
+    :align: center
+
+    記憶傳授人-謝承妤
+
+.. figure:: 601/記憶傳授人---陳莛閎.JPG
+    :align: center
+
+    記憶傳授人-陳莛閎
+
+.. figure:: 601/誠實的重要---張睿騏.JPG
+    :align: center
+
+    誠實的重要-張睿騏
+
+.. figure:: 601/誠實的重要---謝昕妤.JPG
+    :align: center
+
+    誠實的重要-謝昕妤
+
+.. figure:: 601/誠實的重要---陳莛閎.JPG
+    :align: center
+
+    誠實的重要-陳莛閎
