@@ -2,4 +2,24 @@
 六年四班
 ========
 
-版面調整中
+.. figure:: 604/我的紅包計畫書001.jpg
+    :align: center
+
+.. figure:: 604/我的紅包計畫書002.jpg
+    :align: center
+
+.. figure:: 604/我的紅包計畫書003.jpg
+    :align: center
+
+.. figure:: 604/我的紅包計畫書004.jpg
+    :align: center
+
+.. figure:: 604/我的紅包計畫書005.jpg
+    :align: center
+
+.. figure:: 604/我的紅包計畫書006.jpg
+    :align: center
+
+.. figure:: 604/我的紅包計畫書007.jpg
+    :align: center
+
